@@ -1,5 +1,6 @@
 # Project-1
-Group #9 Project #1						             Wednesday September 9th, 2020
+Group #9 Project #1						             
+Wednesday September 9th, 2020
 Rice University Data Analytics & Visualization Bootcamp
  
  
@@ -34,6 +35,7 @@ Data Sets to be Used:
 IMF Data, GDP Data, Weather Data 
 https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD?year=2020
 https://nordicapis.com/6-best-free-and-paid-weather-apis/
+https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
 Rough Breakdown of Tasks: 
 Each team member will answer one of the five questions posed above.  Additionally, we will all work together on API’s, building the data sets for said project, and building the final Jupyter Notebook. 
  
