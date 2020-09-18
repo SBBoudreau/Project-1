@@ -37,7 +37,7 @@ Data Sets to be Used:
 RESTful API: http://restcountries.eu/
 Countries by GDP Sector Composition: https://en.m.wikipedia.org/wiki/List_of_countries_by_GDP_sector_composition
 Weather Data: https://climateknowledgeportal.worldbank.org/download-datahttps://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD?year=2020
-
+GDP Data: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 
 Rough Breakdown of Tasks: 
