@@ -8,7 +8,7 @@ Emeka Obianyor
 Kiran Mundae
 Charles Robinson
 Nick Orewiler
-Sadie Barnett-Boudreau <br>
+Sadie Barnett-Boudreau
 
 ### Project Description/Outline: 
 We will be using weather (temperature and precipitation) data and available GDP data to establish any correlations between GDP, precipitation and temperature if they exsist. We will further break our data further into groups (based on GDP classifications) and analyze to establish any correlations when looking at these subsets. We set out a few questions to answer to help guide our analysis. 
